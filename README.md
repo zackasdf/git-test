@@ -1,1 +1,3 @@
-This is zackasdf's first git project
+# git_test
+First GitHub repo!
+Hello Odin 
